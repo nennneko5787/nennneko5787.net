@@ -107,7 +107,7 @@ export default function Home() {
               </ul>
             </div>
             <div className="column is-half">
-              <h2>Links</h2>
+              <h2>Mutual links</h2>
               <p>
                 <small>
                   If you want to publish your website here, please{" "}
@@ -117,6 +117,17 @@ export default function Home() {
                   .
                 </small>
               </p>
+              <ul>
+                <li>
+                  <a href="https://akku1139.github.io/">akku's website</a>
+                </li>
+                <li>
+                  <a href="https://otoneko.cat/">音猫。のポートフォリオ</a>
+                </li>
+                <li>
+                  <a href="https://techfish.dev/">さかなのサイト</a>
+                </li>
+              </ul>
             </div>
             <div className="column is-half">
               <h2>Contact me</h2>
