@@ -90,6 +90,9 @@ export default function Home() {
               <h2>Projects / Contribute</h2>
               <ul>
                 <li>
+                  <a href="https://draw.nennneko5787.net">The world drawer</a>
+                </li>
+                <li>
                   <a href="https://14chan.jp">14chan.jp</a>
                 </li>
                 <li>
